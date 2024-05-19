@@ -10,7 +10,7 @@ Welcome to this Project Repository! This repository contains a collection of sev
 - [Usage](#usage)
 - [Disclaimer](#disclaimer)
 - [License](#license)
-- [Contact](#contact)
+- [Reference](#reference)
 
 ## Introduction
 
@@ -32,15 +32,15 @@ The content in this repository is for educational and informational purposes onl
 
 You are solely responsible for any consequences, losses, or damages that may result from using the information, resources, or code provided in this repository. You acknowledge and agree that we are not liable for any such consequences, losses, or damages.
 
-## Installation
-
-To get started with any of the projects, clone the repository to your local machine:
-
-## References
+## Reference
 
 https://www.freecodecamp.org/
 
 https://developer.mozilla.org/en-US/
+
+## Installation
+
+To get started with any of the projects, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/wgs45/html_css_js.git
