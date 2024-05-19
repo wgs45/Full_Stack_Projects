@@ -1,4 +1,4 @@
-# HTML, CSS & JAVASCRIPT Project Repository
+# HTML, CSS & Javascript Project Repository
 
 Welcome to this Project Repository! This repository contains a collection of several HTML projects that is combined with CSS and Javascript.
 
