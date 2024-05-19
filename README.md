@@ -4,7 +4,7 @@ Welcome to this Project Repository! This repository contains a collection of sev
 
 ## Table of Contents
 
-- [Introduction](#introduction
+- [Introduction](#introduction)
 - [Projects](#projects)
 - [Installation](#installation)
 - [Usage](#usage)
