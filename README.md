@@ -36,5 +36,11 @@ You are solely responsible for any consequences, losses, or damages that may res
 
 To get started with any of the projects, clone the repository to your local machine:
 
+## References
+
+https://www.freecodecamp.org/
+
+https://developer.mozilla.org/en-US/
+
 ```bash
 git clone https://github.com/wgs45/html_css_js.git
