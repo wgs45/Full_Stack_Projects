@@ -8,7 +8,7 @@ Welcome to this Project Repository! This repository contains a collection of sev
 - [Projects](#projects)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Disclaimer](#disclaimer)
 - [License](#license)
 - [Contact](#contact)
 
