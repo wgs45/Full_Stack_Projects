@@ -18,7 +18,7 @@ This repository contain several HTML, CSS and Javascript projects.
 
 ## Projects
 
-projects
+Coming soon...
 
 ## Disclaimer
 
