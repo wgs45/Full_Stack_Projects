@@ -1,0 +1,133 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <title>Survey form</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1 id="title">Survey Form</h1>
+    <p id="description">Please fill the survey below</p>
+    <form id="survey-form">
+      <fielset>
+        <label for="name-label" id="name-label"
+          >Enter your name:
+          <input id="name" type="text" name="name" placeholder="Name" required
+        /></label>
+        <label for="email-label" id="email-label"
+          >Enter your email
+          <input
+            id="email"
+            type="email"
+            name="email"
+            placeholder="Email"
+            required
+        /></label>
+        <label for="number-label" id="number-label">
+          Enter your age:
+          <input
+            id="number"
+            type="number"
+            name="number"
+            min="13"
+            max="120"
+            placeholder="Age"
+            required
+          />
+        </label>
+        <label for="occupation"
+          >What's your current occupation:
+          <select id="dropdown" name="dropdown">
+            <option value="">(Select one)</option>
+            <option value="1">Student</option>
+            <option value="2">Enterpreneur</option>
+            <optuon value="3">Business Man / Business Woman</optuon>
+            <option value="4">Teacher</option>
+            <option value="5">Others</option>
+          </select>
+        </label>
+      </fielset>
+      <fieldset>
+        <legend>Our service rating:</legend>
+        <label for="excellent-rating">
+          <input
+            id="excellent-rating"
+            type="radio"
+            name="rating"
+            class="inline"
+            value="1"
+            checked
+          />
+          Excellent
+        </label>
+        <label for="good-rating">
+          <input
+            id="good-rating"
+            type="radio"
+            name="rating"
+            class="inline"
+            value="2"
+          />
+          Good
+        </label>
+        <label for="fair-rating">
+          <input
+            id="fair-rating"
+            type="radio"
+            name="rating"
+            class="inline"
+            value="3"
+          />
+          Fair
+        </label>
+        <label for="poor-rating">
+          <input
+            id="poor-rating"
+            type="radio"
+            name="rating"
+            class="inline"
+            value="4"
+          />
+          Poor
+        </label>
+      </fieldset>
+      <fieldset>
+        <legend>What would you like us to improve?</legend>
+        <label for="service">
+          <input
+            id="service"
+            type="checkbox"
+            name="improvement"
+            class="inline"
+            value="1"
+          />
+          Service
+        </label>
+        <label for="food">
+          <input
+            id="food"
+            type="checkbox"
+            name="improvement"
+            class="inline"
+            value="2"
+          />
+          Food
+        </label>
+      </fieldset>
+      <fieldset>
+        <label for="suggestion">
+          Any additional suggestion:
+          <textarea
+            id="suggestion"
+            name="suggestion"
+            rows="3"
+            cols="30"
+            placeholder="Please write it here..."
+          ></textarea>
+        </label>
+      </fieldset>
+      <input id="submit" type="submit" value="submit" />
+    </form>
+  </body>
+</html>
